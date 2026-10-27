@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.Jara" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#070B1F</item>
+        <item name="android:statusBarColor">#070B1F</item>
+        <item name="android:navigationBarColor">#070B1F</item>
+    </style>
+</resources>
